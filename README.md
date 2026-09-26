@@ -1,9 +1,11 @@
- <img src="https://capsule-render.vercel.app/api?type=speech&color=8f0b0b&height=300&section=header&text=Hey%20There!👋&fontColor=ffffff&fontSize=100&animation=fadeIn" />
-
+ <img src="https://capsule-render.vercel.app/api?type=speech&color=8f0b0b&height=300&section=header&text=Hey%20There!👋&fontColor=ffffff&fontSize=100&animation=fadIn" />
+ <p align="center">
+ <img height="9000" length="9000" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGc4YThqc2c4NHpnZ3FndmZmbHFoaHpzanBvYzhuMDVzMnhuOTVyMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BZlvPwfbvTkO2yCZkJ/giphy.gif"/>
+</p>
 
 
 <!--
-**Sixtine08/Sixtine08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Sixtine08/Sixtine08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
