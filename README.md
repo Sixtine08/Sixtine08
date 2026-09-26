@@ -1,5 +1,7 @@
-##  👋 Hey There! 
-<img width="1766" height="1038" alt="image" src="https://github.com/user-attachments/assets/a0194e04-f39f-4031-83b7-80a297b5c53b" />  
+ <img src="https://capsule-render.vercel.app/api?type=speech&color=8f0b0b&height=300&section=header&text=Hey%20There!👋&fontColor=ffffff&fontSize=100&animation=fadeIn" />
+
+
+
 <!--
 **Sixtine08/Sixtine08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
