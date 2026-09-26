@@ -1,5 +1,5 @@
-## 👋 Hey There
-
+##  👋 Hey There! 
+<img width="1766" height="1038" alt="image" src="https://github.com/user-attachments/assets/a0194e04-f39f-4031-83b7-80a297b5c53b" />  
 <!--
 **Sixtine08/Sixtine08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
