@@ -1,6 +1,6 @@
- <img src="https://capsule-render.vercel.app/api?type=speech&color=8f0b0b&height=300&section=header&text=Hey%20There!👋&fontColor=ffffff&fontSize=100&animation=fadIn" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hey%20There!👋&fontColor=ffffff&fontSize=100&animation=fadIn&theme=great-gatsby" />
  <p align="center">
- <img height="9000" length="9000" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGc4YThqc2c4NHpnZ3FndmZmbHFoaHpzanBvYzhuMDVzMnhuOTVyMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BZlvPwfbvTkO2yCZkJ/giphy.gif"/>
+<img width="1766" height="1038" alt="image" src="https://github.com/user-attachments/assets/f5efcf60-10c4-4d3b-8d8d-c202c42af62d" />
 </p>
 
 
