@@ -6,7 +6,7 @@
 ————————————————————————————————————————————
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&height=90&text=A%20Littile%20About%20Me&fontSize=70" />
 <f size="50">
-- 👩‍💻 I’m currently working on a phonolagical spell
+- 👩‍💻 I’m currently working on a phonological spell check 
 - 🧩 I’m currently learning python
 - 🏫 Educational background, I am currently in High School
 - 🗣️ I’m fluent in both English and French
