@@ -1,6 +1,6 @@
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hey%20There!👋&fontColor=ffffff&fontSize=100&animation=fadIn&theme=great-gatsby" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hey%20There!👋&fontColor=000000&fontSize=100&animation=fadIn&customColorList=29" />
  <p align="center">
-<img width="1766" height="1038" alt="image" src="https://github.com/user-attachments/assets/f5efcf60-10c4-4d3b-8d8d-c202c42af62d" />
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/f5efcf60-10c4-4d3b-8d8d-c202c42af62d" />
 </p>
 
 
