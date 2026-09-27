@@ -15,3 +15,8 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I’m dyslexic and I have ADHD
 </f>
+<h2> 👾 &nbsp;Some Tools I Use and am Currently Learning</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-plain.svg" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="45" height="45" />             
+</p>
