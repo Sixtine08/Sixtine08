@@ -3,7 +3,7 @@
 <img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/f5efcf60-10c4-4d3b-8d8d-c202c42af62d" />
 </p>
 
-—————————————————————————————————————————————
+————————————————————————————————————————————
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&height=90&text=A%20Littile%20About%20Me&fontSize=70" />
 <f size="50">
 - 👩‍💻 I’m currently working on a phonolagical spell
@@ -15,10 +15,10 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I’m dyslexic and I have ADHD
 </f>
-—————————————————————————————————————————————
+————————————————————————————————————————————
 <h2> 👾 &nbsp;Some Tools I Use and am Currently Learning</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-plain.svg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="45" height="45" />             
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=downer&customColorList=29" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&customColorList=29" />
