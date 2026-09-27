@@ -20,3 +20,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-plain.svg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="45" height="45" />             
 </p>
+![Snake animation](https://github.com/Sixtine08/Sixtine08/blob/output/github-contribution-grid-snake.svg)
